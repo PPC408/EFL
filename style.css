@@ -1,0 +1,32 @@
+.title{
+    color: red;
+}
+p{
+    font-size: 20px;
+    color: rgb(17, 0, 255);
+}
+h1{
+    color: red;
+}
+h2{
+    color: orange;
+}
+ul{
+    font-size: 20px;
+    color: rgb(17, 0, 255);
+}
+p:hover{
+    font-size: 30px;
+    color: rgb(0, 255, 0);
+    background-color: rgba(37, 0, 248, 0.664);
+    transition: 9s;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+ul:hover{
+    font-size: 30px;
+    color: rgb(0, 255, 0);
+    background-color: rgba(37, 0, 248, 0.664);
+    transition: 9s;
+}
