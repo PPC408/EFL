@@ -30,3 +30,15 @@ ul:hover{
     background-color: rgba(37, 0, 248, 0.664);
     transition: 9s;
 }
+details{
+    color: rgba(0, 255, 0, 0.5);
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+}
+details:hover{
+    color: lime;
+    background-color: transparent;
+    transition: 4s;
+    font-size: 28px;
+}
